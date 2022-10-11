@@ -12,6 +12,6 @@ window.title("First GUI Program") # to change title of the window
 icon=PhotoImage(file='logo.png')
 window.iconphoto(False,icon)
 
-window.config(background="blue")
+window.config(background="blue") # to change background color...
 
 window.mainloop() # place window on computer screen.

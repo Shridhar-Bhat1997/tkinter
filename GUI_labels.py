@@ -25,3 +25,4 @@ label.place(x=100,y=300) # where you can place text or images...
 
 
 window.mainloop()
+
